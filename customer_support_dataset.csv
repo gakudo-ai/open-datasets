@@ -1,0 +1,51 @@
+prior_tickets,account_age_days,text,label
+1,183,I forgot my password,login
+5,188,Can't log into my account,login
+4,197,Unable to sign in to the app,login
+4,181,Login keeps failing,login
+5,95,I’m locked out of my account,login
+2,245,Can't remember my login credentials,login
+4,119,Account access denied,login
+5,321,Issue with two-factor authentication,login
+3,237,Sign-in page doesn't load,login
+5,30,Authentication error when logging in,login
+3,176,Need a refund for my order,refund
+2,250,I want my money back,refund
+5,340,Refund the item I returned,refund
+3,268,How do I get a refund?,refund
+4,256,I was charged twice,refund
+2,291,Requesting reimbursement,refund
+4,116,Return processed but no refund,refund
+1,175,Refund not showing up in my account,refund
+5,354,Please cancel and refund my order,refund
+5,201,I didn’t receive what I paid for,refund
+1,150,App keeps crashing when I try to upload,bug
+3,145,The app freezes on the loading screen,bug
+2,105,Feature X is not working,bug
+1,53,I get an error when submitting a form,bug
+2,273,Unexpected behavior in dashboard,bug
+5,67,Crashing every time I open settings,bug
+4,242,Audio is not playing correctly,bug
+5,129,Camera doesn’t turn on in the app,bug
+4,283,App logs me out randomly,bug
+4,154,Unable to update the app,bug
+2,365,How do I change my subscription plan?,billing
+1,84,Billing cycle seems incorrect,billing
+4,142,Why was I charged this month?,billing
+2,295,Need to update my payment method,billing
+4,55,Issue with invoice amount,billing
+5,157,Change my credit card details,billing
+1,263,Can't find billing history,billing
+2,267,Charged after cancellation,billing
+5,316,How do I pause my subscription?,billing
+5,192,Payment failed but money deducted,billing
+4,343,Received the wrong item,delivery
+5,248,My package never arrived,delivery
+5,258,Item was damaged in transit,delivery
+2,273,Tracking shows delivered but I didn’t get it,delivery
+4,162,Delivery is late,delivery
+2,356,Courier left the package outside,delivery
+3,296,Received an empty box,delivery
+4,350,Wrong size sent,delivery
+2,170,How do I return a delivered item?,delivery
+4,69,Item missing from my order,delivery
